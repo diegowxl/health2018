@@ -1,2 +1,2 @@
 # health2018
-Honor Thesis: How did the Chinese Healthcare Reform Effected Patient Outcomes
+A System in Transition: Evaluating the Success of China’s 2018 Healthcare Reform
